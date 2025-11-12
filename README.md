@@ -8,7 +8,6 @@ A sophisticated Multimodal AI Medical Application that provides intelligent answ
 ## Project Overview
 A sophisticated multimodal AI medical application that provides intelligent answers to clinical questions based on visual inputs from various medical imaging modalities. This system combines advanced computer vision and natural language processing to assist healthcare professionals in analyzing medical images.
 
-[![Medical AI](https://img.shields.io/badge/Medical-AI-blue)](https://github.com) [![Multimodal VQA](https://img.shields.io/badge/Multimodal-VQA-green)](https://github.com) [![TensorFlow 2.x](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
 
 ---
 
