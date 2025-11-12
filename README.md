@@ -61,7 +61,7 @@ The Medical Visual Question Answering (VQA) system is designed to revolutionize 
 
 ### 2. Model Architecture
 
-**Visual Encoder (CNN-based):**  
+## Visual Encoder (CNN-based)  
 ## Text Encoder
 
 - **Transformer-based question understanding**  
