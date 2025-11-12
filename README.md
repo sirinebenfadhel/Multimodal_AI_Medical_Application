@@ -3,7 +3,7 @@ A sophisticated Multimodal AI Medical Application that provides intelligent answ
 
 
 
-# Medical Visual Question Answering (VQA) System
+## Medical Visual Question Answering (VQA) System
 
 ## Project Overview
 A sophisticated multimodal AI medical application that provides intelligent answers to clinical questions based on visual inputs from various medical imaging modalities. This system combines advanced computer vision and natural language processing to assist healthcare professionals in analyzing medical images.
